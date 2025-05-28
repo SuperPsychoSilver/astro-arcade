@@ -1,4 +1,4 @@
-# ⚡ Astro Arcade  
+# 🪐 Astro Arcade  
 *(Explore a universe of play.)*
 
 ![Astro Arcade Logo](blob:https://imgur.com/a4f1f98b-746d-48cc-a803-b60198de1ad6)
@@ -12,12 +12,12 @@ We keep your gaming cosmos connected, so you'll never drift into a black hole of
 
 ---
 
-### ⚡ Features that keep your gameplay in orbit:
-- 🎮 Play Switch, Xbox, NES, Wii, and more — all at **1080p** in-browser.
-- 🚀 Optimized with custom **oGPU** tech to keep your GPU running light-years smooth.
-- 🌠 Customizable themes and profiles to make your setup truly cosmic.
-- 🕹️ Controller support and keyboard splitting for multiplayer missions.
-- 💾 Autosave and cloud syncing to keep your progress safely in your galaxy.
+### 🪐 Features that keep your gameplay in orbit:
+- Play Switch, Xbox Series X, NES, Wii, PS5 and more — all at **1080p-1440p** in-browser.
+- Optimized with custom **oGPU** tech to keep your GPU running light-years smooth.
+- Customizable themes and profiles to make your setup truly cosmic.
+- Controller support and keyboard splitting for multiplayer missions.
+- Autosave and cloud syncing to keep your progress safely in your galaxy.
 
 ---
 
@@ -39,7 +39,7 @@ Astro Arcade is a **fan-made** project. We do not host or stream any copyrighted
 
 ---
 
-### ⚡ Let's Stay Connected:
+### 🪐 Let's Stay Connected:
 Ready to launch your gaming journey? Explore Astro Arcade now!  
 Questions? Feedback? Beam me a message at `nickolasknowles1920@gmail.com`.
 
