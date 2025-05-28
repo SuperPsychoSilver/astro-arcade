@@ -1,7 +1,7 @@
 # ⚡ Astro Arcade  
 *(Explore a universe of play.)*
 
-![Astro Arcade Logo](https://i.imgur.com/d39xP5N.png)
+![Astro Arcade Logo](blob:https://imgur.com/a4f1f98b-746d-48cc-a803-b60198de1ad6)
 
 ---
 
